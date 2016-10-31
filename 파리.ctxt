@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=\uD30C\uB9AC
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ \uD30C\uB9AC\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ \uD30C\uB9AC\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ flee()
+comment3.params=
+comment3.target=void\ inDieCenter()
+comment4.params=
+comment4.target=void\ die()
+comment5.params=
+comment5.target=boolean\ mausInadjoin()
+numComments=6
